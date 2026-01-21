@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local env
+.env
+.venv
+venv/
+
+# Logs
+*.log
+
+# Optional: ignore large PDFs if repo size becomes heavy
+# datasets/policy-documents/
